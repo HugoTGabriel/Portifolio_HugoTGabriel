@@ -1,6 +1,6 @@
 ### Olá, eu sou o Hugo Gabriel 👋
 
-Sou um desenvolvedor e estudante de Engenharia de Software na UniEvangélica, apaixonado por criar soluções através da tecnologia. Estou sempre em busca de novos desafios e oportunidades para aprimorar minhas habilidades, especialmente em desenvolvimento com Python e tecnologias web.
+Desenvolvedor e estudante de Engenharia de Software na UniEvangélica, apaixonado por criar soluções através da tecnologia. Meu foco atual é Python, explorando áreas como Inteligência Artificial, Segurança e desenvolvimento de Jogos. Busco constantemente aprimorar minhas habilidades através de novos desafios e dos cursos da DIO, onde sou membro Pro Vitalício.
 
 ---
 
