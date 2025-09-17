@@ -37,4 +37,5 @@ Estou aberto a novas oportunidades e colaborações. Vamos conversar!
 
 ---
 
-![Estatísticas de Hugo no GitHub](https://github-readme-stats.vercel.app/api?username=hugotgabriel&show_icons=true&theme=radical)
+![Estatísticas de Hugo no GitHub](https://github-readme-stats.vercel.app/api?username=hugotgabriel&show_icons=true&theme=radical&token=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)
+
