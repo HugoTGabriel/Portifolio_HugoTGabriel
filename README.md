@@ -4,16 +4,6 @@ Desenvolvedor e estudante de Engenharia de Software na UniEvangélica, apaixonad
 
 ---
 
-### 🔭 Meus Projetos em Destaque
-
-Aqui estão alguns dos projetos nos quais dediquei meu tempo. Sinta-se à vontade para explorar o código e ver como foram construídos!
-
-| Projeto | Descrição | Tecnologias |
-|---|---|---|
-| 🎲 **[Criador de Fichas de RPG](https://github.com/HugoTGabriel/Ficha_RPG)** | Uma aplicação de console completa para criar, salvar (`.json`) e exportar (`.txt`) fichas de personagens de RPG. O projeto é modular e permite a fácil adição de novos sistemas de jogo. | ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) |
-
----
-
 ### 💻 Tecnologias e Ferramentas
 
 Estas são algumas das tecnologias com as quais tenho trabalhado:
@@ -34,4 +24,3 @@ Estou aberto a novas oportunidades e colaborações. Vamos conversar!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hugo-g-c-alves/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hugo.gabrialves@gmail.com)
-
