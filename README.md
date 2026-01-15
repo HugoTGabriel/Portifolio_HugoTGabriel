@@ -1,26 +1,39 @@
 ### Olá, eu sou o Hugo Gabriel 👋
 
-Desenvolvedor e estudante de Engenharia de Software na UniEvangélica, apaixonado por criar soluções através da tecnologia. Meu foco atual é Python, explorando áreas como Inteligência Artificial, Segurança e desenvolvimento de Jogos. Busco constantemente aprimorar minhas habilidades através de novos desafios e dos cursos da DIO, onde sou membro Pro Vitalício.
+Desenvolvedor em formação e estudante de Engenharia de Software na UniEvangélica, com foco atual em **back-end com Python**. 
+
+---
+
+### 🎯 Objetivo profissional
+Busco oportunidade como **Desenvolvedor Back-end (Estágio / Júnior)**, onde eu possa evoluir tecnicamente entregando código funcional, organizado e bem documentado.
 
 ---
 
 ### 💻 Tecnologias e Ferramentas
+Tecnologias que utilizo ou estou aplicando em projetos práticos:
 
-Estas são algumas das tecnologias com as quais tenho trabalhado:
+- **Python** — foco principal (lógica, scripts e APIs)
+- **FastAPI** — em aprendizado prático (APIs REST)
+- **Git / GitHub** 
+- **HTML / CSS / JavaScript**
 
 <br/>
 
 <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-<img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img align="center" alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 <img align="center" alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
 
 ---
 
-### 📫 Vamos nos Conectar!
+### 🚧 Projetos
+- **Tracker de Gastos (API REST)** — *em desenvolvimento*  
+  API para controle de gastos por usuário, utilizando FastAPI e banco de dados relacional.  
+  *(Repositório será adicionado em breve)*
 
-Estou aberto a novas oportunidades e colaborações. Vamos conversar!
+---
+
+### 📫 Vamos nos conectar?
+Estou aberto a oportunidades de estágio, aprendizado e colaboração.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hugo-g-c-alves/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hugo.gabrialves@gmail.com)
