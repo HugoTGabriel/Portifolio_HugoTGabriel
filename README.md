@@ -1,6 +1,6 @@
 # Olá, eu sou o Hugo Gabriel 👋
 
-Engenheiro de Software em formação (7º Período) com foco em **Desenvolvimento Backend** e **Cloud Computing**. Com futuro planejado em Cybersegurança e IA
+Engenheiro de Software em formação (7º Período) com foco em **Desenvolvimento Backend** e **Cloud Computing**. Com futuro planejado em Cibersegurança e IA
 
 ### 🛠 Tecnologias & Ferramentas
 - **Linguagens:** Python (FastAPI, SQLModel, Pydantic).
