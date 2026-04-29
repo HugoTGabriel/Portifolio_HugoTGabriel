@@ -1,39 +1,43 @@
-### Olá, eu sou o Hugo Gabriel 👋
+# Olá, eu sou o Hugo Gabriel 👋
 
-Desenvolvedor em formação e estudante de Engenharia de Software na UniEvangélica, com foco atual em **back-end com Python**. 
+Engenheiro de Software em formação (7º Período) com foco em **Desenvolvimento Backend** e **Cloud Computing**. Com futuro planejado em Cybersegurança e IA
 
----
-
-### 🎯 Objetivo profissional
-Busco oportunidade como **Desenvolvedor Back-end (Estágio / Júnior)**, onde eu possa evoluir tecnicamente entregando código funcional, organizado e bem documentado.
-
----
-
-### 💻 Tecnologias e Ferramentas
-Tecnologias que utilizo ou estou aplicando em projetos práticos:
-
-- **Python** — foco principal (lógica, scripts e APIs)
-- **FastAPI** — em aprendizado prático (APIs REST)
-- **Git / GitHub** 
-- **HTML / CSS / JavaScript**
-
-<br/>
-
-<img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-<img align="center" alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-<img align="center" alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+### 🛠 Tecnologias & Ferramentas
+- **Linguagens:** Python (FastAPI, SQLModel, Pydantic).
+- **Bancos de Dados:** SQLite.
+- **DevOps & Cloud:** GitHub, Git.
 
 ---
 
-### 🚧 Projetos
-- **Tracker de Gastos (API REST)** — *em desenvolvimento*  
-  API para controle de gastos por usuário, utilizando FastAPI e banco de dados relacional.  
-  *(Repositório será adicionado em breve)*
+### 🔭 Atualmente aprofundando em:
+Estes são meus objetivos de curto prazo, integrando infraestrutura e persistência avançada aos meus projetos atuais:
+- **Linguagens:** Aprendendo JavaScript (Node.js, React) para futuramente ir para C e C++.
+- **Cloud & DevOps:** Implementação de Docker para containerização e CI/CD com GitHub Actions.
+- **Database:** Transição de projetos para PostgreSQL e MySQL para suportar aplicações de alta performance.
+- **AWS:** Preparação intensiva para a certificação AWS Certified Cloud Practitioner.
 
 ---
 
-### 📫 Vamos nos conectar?
-Estou aberto a oportunidades de estágio, aprendizado e colaboração.
+### 📚 Projetos em Destaque
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hugo-g-c-alves/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hugo.gabrialves@gmail.com)
+#### [Bookstore API](https://github.com/HugoTGabriel/bookstore-api)
+API RESTful robusta para gerenciamento de acervos literários.
+- **Foco:** Backend com Python e FastAPI.
+- **Destaque:** Cobertura de testes automatizados com Pytest e implementação de boas práticas com Pydantic.
+
+#### [PIEE - Sistema de Receitas](https://github.com/HugoTGabriel/piee)
+Plataforma Fullstack para compartilhamento e gestão de receitas culinárias.
+- **Foco:** Integração Node.js (Express) e React com banco de dados MySQL.
+- **Destaque:** MVP funcional focado em integração entre Frontend e Backend.
+
+---
+
+### 🔮 Roadmap & Visão de Futuro
+Seguindo meu plano de carreira de longo prazo, estou construindo as bases para atuar em áreas críticas de tecnologia:
+- **Cybersecurity:** Especialização em segurança de aplicações (AppSec), com foco em técnicas de ataque e defesa (Red & Blue Team).
+- **Inteligência Artificial:** Pesquisa e desenvolvimento voltados para sistemas inteligentes e modelos de IA aplicados.
+
+---
+
+📫 **Como me encontrar:**
+[LinkedIn](https://www.linkedin.com/in/hugo-g-c-alves/) | 📧 hugo.gabrialves@gmail.com
